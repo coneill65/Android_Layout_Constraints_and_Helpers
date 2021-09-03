@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Layout Constraints and Helpers</string>
+    <string name="text">This app uses constraints to keep everything in order!</string>
+    <string name="image_description">tree in field</string>
+    <string name="button">Click me</string>
+    <string name="restart_count">Restart count</string>
+    <string name="click_to_hide">Click to hide</string>
+</resources>

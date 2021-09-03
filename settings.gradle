@@ -1,0 +1,2 @@
+rootProject.name = "Android Layout Constraints and Helpers"
+include ':app'
